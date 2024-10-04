@@ -2,7 +2,9 @@
 
 You can peruse my data science project portfolio [here](imseanpatrick.github.io).
 
-I'm the Assistant Director of the NULab for Digital Humanities and Computational Social Science, and a PhD student in Complex Systems and Data Science at the University of Vermont, where I am a fellow of the MassMutual Center for Excellence in Complex Systems and Data Science, and the Gund Institute for Environment. As a Public interest techbologist and computational social scientist specializing in Machine Learning, NLP and social media analytics, my research focuses on using AI to arm policymakers and practtioners with data useful to their campaigns and missions, including applications of AI and other technologies to improve policing, and understand the international wildlife trade and captive wildlife tourism on social media. 
+I'm the Assistant Director of the NULab for Digital Humanities and Computational Social Science, and a PhD student in Complex Systems and Data Science at the University of Vermont, where I am a fellow of the MassMutual Center for Excellence in Complex Systems and Data Science, and the Gund Institute for Environment. 
+
+As a Public interest technologist and computational social scientist specializing in Machine Learning, NLP and social media analytics, my research focuses on using AI to arm policymakers and practtioners with data useful to their campaigns and missions, including applications of AI and other technologies to improve policing, and understand the international wildlife trade and captive wildlife tourism on social media. 
 
 I routinely give talks and workshops to undergraduate and graduate students and individuals in industry and government to help them understand the benefits of learnig and applying python in their analytical workflow. 
 <!--
