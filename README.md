@@ -1,6 +1,6 @@
 ## Hi there! I'm Sean 👋
 
-You can peruse my data science project portfolio [here][(https://imseanpatrick.github.io/).
+You can peruse my data science project portfolio [here](https://imseanpatrick.github.io/).
 
 I'm the Assistant Director of the NULab for Digital Humanities and Computational Social Science, and a PhD student in Complex Systems and Data Science at the University of Vermont, where I am a fellow of the MassMutual Center for Excellence in Complex Systems and Data Science, and the Gund Institute for Environment. As a computing grauduate student with an educational background in the social sciences, I aim to bridge the gap between folks in computing and the social sciences to co-create impactful and digestable research and analytical projects. 
 
