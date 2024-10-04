@@ -6,7 +6,7 @@ I'm the Assistant Director of the NULab for Digital Humanities and Computational
 
 As a Public interest technologist and computational social scientist specializing in Machine Learning, NLP and social media analytics, my research focuses on using AI to arm policymakers and practtioners with data useful to their campaigns and missions, including applications of AI and other technologies to improve policing, and understand the international wildlife trade and captive wildlife tourism on social media. 
 
-I routinely give talks and workshops to undergraduate and graduate students and individuals in industry and government to help them understand the benefits of learnig and applying python in their analytical workflow. 
+I routinely give talks and workshops to undergraduate and graduate students and individuals in industry and government to help them understand the benefits of learning and applying python in their analytical workflow. I have guest lectured in courses on Criminal Justice, Sociology, Anthropology, and Business Statistics, on topics such as qualitative and quantitative analysis, introduction to python, introduction to machine learning and text analysis with python, and introduction to statistical computing with excel and R.
 <!--
 **Imseanpatrick/imseanpatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
