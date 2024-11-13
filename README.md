@@ -2,7 +2,7 @@
 
 You can peruse my data science project portfolio [here](https://imseanpatrick.github.io/).
 
-I'm the Assistant Director of the NULab for Digital Humanities and Computational Social Science, and a PhD student in Complex Systems and Data Science at the University of Vermont, where I am a fellow of the MassMutual Center for Excellence in Complex Systems and Data Science, and the Gund Institute for Environment. As a computing grauduate student with an educational background in social science, I aim to bridge the gap between folks in computer science and social science to co-create impactful and digestable research and analytical projects. 
+I'm the Assistant Director of the NULab for Digital Humanities and Computational Social Science, and a PhD student in Complex Systems and Data Science at the University of Vermont, where I am a fellow of the MassMutual Center for Excellence in Complex Systems and Data Science, and the Gund Institute for Environment. As a computing graduate student with an educational background in social science, I aim to bridge the gap between folks in computer science and social science to co-create impactful and digestable research and analytical projects. 
 
 As a public interest technologist and computational social scientist specializing in Machine Learning, NLP and social media analytics, my research focuses on using AI to arm policymakers and practtioners with data useful to their campaigns and missions, including applications of AI and other technologies to improve policing, and understand the international wildlife trade and captive wildlife tourism on social media. My broad range of professional experience includes analytical and research roles in the government, nonprofit, and private sector. 
 
