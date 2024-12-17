@@ -2,11 +2,18 @@
 
 You can peruse my data science project portfolio [here](https://imseanpatrick.github.io/).
 
-I'm the Assistant Director of the NULab for Digital Humanities and Computational Social Science, and a PhD student in Complex Systems and Data Science at the University of Vermont, where I am a fellow of the MassMutual Center for Excellence in Complex Systems and Data Science, and the Gund Institute for Environment. As a computing graduate student with an educational background in social science, I aim to bridge the gap between folks in computer science and social science to co-create impactful and digestable research and analytical projects. 
+I'm the Assistant Director of the NULab for Digital Humanities and Computational Social Science and a PhD student in Complex Systems and Data Science at the University of Vermont. I am also a fellow of the MassMutual Center for Excellence in Complex Systems and Data Science and the Gund Institute for Environment.
 
-As a public interest technologist and computational social scientist specializing in Machine Learning, NLP and social media analytics, my research focuses on using AI to arm policymakers and practtioners with data useful to their campaigns and missions, including applications of AI and other technologies to improve policing, and understand the international wildlife trade and captive wildlife tourism on social media. My broad range of professional experience includes analytical and research roles in the government, nonprofit, and private sector. 
+As a computing graduate student with a foundation in social science, I aim to bridge the gap between computer science and social science, co-creating impactful and accessible research and analytical projects.
 
-I routinely give talks and workshops to undergraduate and graduate students and individuals in industry and government to help them understand the benefits of learning and applying python in their analytical workflow. I have guest lectured in courses on Criminal Justice, Sociology, Anthropology, and Business Statistics, on topics such as qualitative and quantitative analysis, introduction to python, introduction to machine learning and text analysis with python, and introduction to statistical computing with excel and R.
+As a public interest technologist and computational social scientist, I specialize in machine learning (ML), natural language processing (NLP), and social media analytics. My research uses data science to equip policymakers and practitioners with information to drive meaningful change, including applications for improving policing and analyzing the international wildlife trade and captive wildlife tourism on social media. My professional experience spans analytical and research roles across government, nonprofit, and private sectors.
+
+I also enjoy teaching and sharing my knowledge. I give talks and workshops to students, industry professionals, and government audiences, helping them incorporate Python and ML into their analytical workflows. I’ve guest lectured in Criminal Justice, Sociology, Anthropology, and Business Statistics courses, covering topics like:
+
+Qualitative and quantitative analysis
+Introduction to Python
+Machine learning and text analysis with Python
+Statistical computing with Excel and R
 <!--
 **Imseanpatrick/imseanpatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
